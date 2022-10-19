@@ -1,0 +1,10 @@
+venv/
+venv2/
+venv3/
+__pycache__/
+aug_images/
+test/
+test_data/
+*.dat
+*.jpg
+*.sh
