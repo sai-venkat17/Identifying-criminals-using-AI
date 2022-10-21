@@ -8,3 +8,4 @@ test_data/
 *.dat
 *.jpg
 *.sh
+*.DS_Store
